@@ -1,5 +1,4 @@
 <?php
-#test commit
 session_start();
 if(isset($_SESSION['uname']))
 {
